@@ -73,5 +73,5 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Ugokwe Chinedu** - [Nesx](https://github.com/EduUgo)
+* **Ugokwe Chinedu** - (https://github.com/EduUgo)
 * **Ikechukwu Unegbu** - (https://github.com/Ikechukwu-Unegbu)
