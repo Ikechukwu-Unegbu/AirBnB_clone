@@ -73,4 +73,5 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Tolulope Fakunle** - [aysuarex](https://github.com/Tolulope05)
+* **Ugokwe Chinedu** - [Nesx](https://github.com/EduUgo)
+* **Ikechukwu Unegbu** - (https://github.com/Ikechukwu-Unegbu)
